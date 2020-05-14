@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>AutoTestMate.XUnit.Samples.Web.Models</AssemblyName>
+    <RootNamespace>AutoTestMate.XUnit.Samples.Web.Models</RootNamespace>
+  </PropertyGroup>
+
+</Project>

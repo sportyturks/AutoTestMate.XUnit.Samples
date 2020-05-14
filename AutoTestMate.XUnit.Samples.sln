@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{68759E86-E9BB-410C-BCA4-D9C14F3ED898}"
+	ProjectSection(SolutionItems) = preProject
+		Test.Arm.runsettings = Test.Arm.runsettings
+		Test.runsettings = Test.runsettings
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoTestMate.XUnit.Samples.Web.Models", "AutoTestMate.XUnit.Samples.Web.Models\AutoTestMate.XUnit.Samples.Web.Models.csproj", "{5AF5AFAF-DEAC-4D12-88C3-C0691E3FC2AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoTestMate.XUnit.Samples.Web.Tests", "AutoTestMate.XUnit.Samples.Web.Tests\AutoTestMate.XUnit.Samples.Web.Tests.csproj", "{B89480DA-39FA-4E65-A6B4-DD24736F6D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AF5AFAF-DEAC-4D12-88C3-C0691E3FC2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF5AFAF-DEAC-4D12-88C3-C0691E3FC2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF5AFAF-DEAC-4D12-88C3-C0691E3FC2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF5AFAF-DEAC-4D12-88C3-C0691E3FC2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B89480DA-39FA-4E65-A6B4-DD24736F6D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89480DA-39FA-4E65-A6B4-DD24736F6D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89480DA-39FA-4E65-A6B4-DD24736F6D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89480DA-39FA-4E65-A6B4-DD24736F6D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F63A4790-4AA9-4252-8CF4-C2B34DE202F9}
+	EndGlobalSection
+EndGlobal
